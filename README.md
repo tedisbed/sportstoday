@@ -35,15 +35,23 @@
 * Chinese Taipei - CPBL
 
 ## football
+* NFL
+* College
 
 ## golf
+* PGA
 
-## nba
+## Basketball
+* CBA
+* New Zealand
 
 ## tennis
 
 ## Hockey
+* NHL
 
 ## Boxing 
+* Weight classes 
 
 ## MMA
+* Weight classes 
