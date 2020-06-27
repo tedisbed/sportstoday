@@ -7,7 +7,8 @@
   * UEFA champtions league
   * UEFA Europa League
 * Spanish La Liga
-* Serie A
+* Italy Serie A
+* Germany Bundesliga
 
 
   
@@ -29,6 +30,9 @@
   
 
 ## baseball
+* Japan - Professional Baseball
+* Republi of Korea - KBO League
+* Chinese Taipei - CPBL
 
 ## football
 
