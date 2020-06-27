@@ -1,1 +1,47 @@
 # sportstoday
+
+## soccer
+premire league
+  FA cup
+  EFL cup
+  UEFA champtions league
+  UEFA Europa League
+
+Spanish La Liga
+
+Serie A
+
+
+  
+## Esports (on bovada on 6/27/2020)
+  CS summit - CS Summit EU
+  CS summit - CS summit NA
+  Overwatch - OWL
+  Counters-Strike: Global Offensive - CS:GO Loot Cup
+  Counter-Strike: Global Offensive - CS:GO. WePlay! Clutch Island
+  Counter-Strike: Global Offensive - Winners League
+  Starcraft - SC 2 GSL
+  Riot Lol - Oceanic Pro League
+  Tencent Lol - Ldl, Summer Season
+  Riot Lol - LCK
+  Riot Lol - PCS
+  Tencent Lol - LPL
+  Riot Lol - Vcs, Summer Split
+  Riot Lol - TCL
+  
+
+## baseball
+
+## football
+
+## golf
+
+## nba
+
+## tennis
+
+## Hockey
+
+## Boxing 
+
+## MMA
