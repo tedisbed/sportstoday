@@ -6,10 +6,8 @@
   * EFL cup
   * UEFA champtions league
   * UEFA Europa League
-
-Spanish La Liga
-
-Serie A
+* Spanish La Liga
+* Serie A
 
 
   
